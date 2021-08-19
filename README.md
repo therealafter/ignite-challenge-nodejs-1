@@ -30,10 +30,10 @@ Criar uma aplicação para gerenciar *todos* de usuários.
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/Thifany-Nicastro/IgniteNode-ChapterI-Desafio01.git
+$ git clone https://github.com/therealafter/ignite-challenge-nodejs-1/
 
 # Entre na pasta
-$ cd IgniteNode-ChapterI-Desafio01
+$ cd ignite-challenge-nodejs-1
 
 # Instale as dependências
 $ yarn ou yarn install
